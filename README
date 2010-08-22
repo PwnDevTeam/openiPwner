@@ -1,0 +1,4 @@
+openiPwner - A Open-sourced version of iH8sn0w's Payload pwner.
+
+This tool will pwn a 3.1.2 iBoot and make it available to use with the iOS 4 Tethered boot up process.
+And this tool will only work with iPhone 3GS (New bootrom) & iPod Touch 2G (MC Model) & iPod Touch 3G.

@@ -1,0 +1,10 @@
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\bin\Debug\openiPwner.exe
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\bin\Debug\openiPwner.pdb
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\bin\Debug\openiPwner.xml
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\openiPwner.Main.resources
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\openiPwner.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\openiPwner.vbproj.GenerateResource.Cache
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\openiPwner.exe
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\openiPwner.xml
+C:\Users\Thim\Desktop\iPhone_dev\openiPwner\openiPwner\openiPwner\obj\Debug\openiPwner.pdb
